@@ -420,6 +420,8 @@ Release checklist
 -----------------
 
 #. Make sure that tests pass on travis.ci.
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsimonpjakobsen%2Fpipdeptree.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsimonpjakobsen%2Fpipdeptree?ref=badge_shield)
+
 #. Create a commit with following changes and push it to github
 #. Update the `__version__` in the `pipdeptree.py` file.
 
@@ -440,3 +442,7 @@ Footnotes
 
 .. [1] Soon we'll have `a dependency resolver in pip itself
        <https://github.com/pypa/pip/issues/6536>`_
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsimonpjakobsen%2Fpipdeptree.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsimonpjakobsen%2Fpipdeptree?ref=badge_large)
